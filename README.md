@@ -12,17 +12,21 @@ Unity Editor (Version 2019.2.10f1)
 
 *Note: during the installation of Unity Hub or the Unity Editor, be sure to choose the option for installing Android build support or build support for whatever platform vrmate will be run on.
 
-## Installation
+## Installation [Android]
+vrMate can be built and run on most platforms, but we run it exclusively on Android. The following steps outline the Android build process.
 
 1) Clone the repository
    ```
+   git clone git@github.com:losonczylab/vrMate.git
    ```
 2) Using Unity Hub, open the "vrmate" project. You will then be prompted to download editor version 2019.2.10f1.
-3) 
+3) Build the project
+   - File > Build Settings > Build (Make sure "Android" is selected from the list of platforms before hitting build)
+4) Copy the APK file to the Android device and run it
 
-## Starting BehaviorMate
+## Starting vrMa
 
-
+1) Simply start vrMate like any Android application.
 
 ## License
 
