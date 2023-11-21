@@ -7,7 +7,7 @@ If you use vrMate for your research, please cite the following paper in any resu
 <behaviorMate paper citation>
 
 ## Dependencies
-<a href="[https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html](https://unity.com/download)">Unity Hub</a>
+<a href="https://unity.com/download">Unity Hub</a>
 Unity Editor (Version 2019.2.10f1)
 
 *Note: during the installation of Unity Hub or the Unity Editor, be sure to choose the option for installing Android build support or build support for whatever platform vrmate will be run on.
