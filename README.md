@@ -25,7 +25,7 @@ vrMate can be built and run on most platforms, but we run it exclusively on Andr
    - File > Build Settings > Build (Make sure "Android" is selected from the list of platforms before hitting build)
 4) Copy the APK file to the Android device and run it
 
-## Starting vrMa
+## Starting vrMate
 
 1) Simply start vrMate like any Android application.
 
