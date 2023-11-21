@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_vrMate_main.unity
+    guid: 2bfbbbfc099284508850af2efff7be26
+  - enabled: 1
+    path: Assets/ctx_1.unity
+    guid: 5fb065e85d56146d2b25a5e9251e940a
+  - enabled: 0
+    path: 
+    guid: b32e7fec86bec4da19af478776bbbfba
+  - enabled: 0
+    path: 
+    guid: 98808b0eaa696499f817a2d043fbf5e9
+  - enabled: 0
+    path: 
+    guid: 3351d179305ec455d959a3c29b355c96
+  - enabled: 0
+    path: 
+    guid: 93ffe1cc14eff47e494a06754aad3dc2
+  - enabled: 1
+    path: Assets/4m_ctx1.unity
+    guid: 8ec4dc60258294c68bbd75ee61073bb0
+  - enabled: 1
+    path: Assets/4m_ctx2.unity
+    guid: 834b552f4a98b4ccf971a53a81886c70
+  - enabled: 1
+    path: Assets/ctx_2.unity
+    guid: 9901a83b7d47d4fd3a9141fda09d4944
+  - enabled: 1
+    path: Assets/ctx_3.unity
+    guid: 4f8c14bc232b44be8b9abb9a3ce84c65
+  - enabled: 1
+    path: Assets/_vrMate_main_james.unity
+    guid: e789a550b9bc84cf28933f617b3153ba
+  m_configObjects: {}
